@@ -1,4 +1,4 @@
-package services;
+package atividade05_maykondeykon.services;
 
 import atividade05_maykondeykon.models.Recado;
 import java.sql.SQLException;

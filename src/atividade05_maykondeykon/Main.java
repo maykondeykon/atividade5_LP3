@@ -2,7 +2,7 @@ package atividade05_maykondeykon;
 
 import atividade05_maykondeykon.models.Recado;
 import java.util.List;
-import services.RecadoDAO;
+import atividade05_maykondeykon.services.RecadoDAO;
 
 /**
  *
@@ -14,7 +14,7 @@ public class Main
     public static void main(String[] args)
     {
         insertTeste();
-//        findAllTeste();
+        findAllTeste();
 //        findTeste(6);
 //        deleteTeste(6);
 

@@ -1,5 +1,5 @@
 
-package services;
+package atividade05_maykondeykon.services;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
